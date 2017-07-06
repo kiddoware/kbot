@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AILib</string>
+
+    <string name="default_aidialog_title">Speak</string>
+    <string name="initializing_feedback">Starting...</string>
+    <string name="listening_feedback">Listening...</string>
+    <string name="thinking_feedback">Thinking...</string>
+    <string name="error_feedback"> \"%1$s\"\nPlease tap on Mic button to try again</string>
+
+</resources>

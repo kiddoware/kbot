@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KP AI</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_aibutton_sample">AIButtonSampleActivity</string>
+    <string name="title_activity_aiservice_sample">AIServiceSample</string>
+    <string name="title_activity_aidialog_sample">AIDialogSample</string>
+    <string name="title_activity_aitext_sample">AITextSample</string>
+    <string name="service_sample_text">Service sample</string>
+    <string name="button_sample_text">Button sample</string>
+    <string name="dialog_sample_text">Dialog sample</string>
+    <string name="text_sample_text">Text sample</string>
+    <string name="title_app_widget">Voice command</string>
+    <string name="non_empty_query">Query should not be empty</string>
+
+    <string name="use_bluetooth_headset">Use Bluetooth headset</string>
+    <string name="wake_word_prompt">Say \"%1$s\"</string>
+
+    <string name="btn_ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_a_browser">Choose a website...</string>
+    <string name="choose_an_app_">Choose an app...</string>
+    <string name="custom_wake_word">OK Google</string>
+    <string name="for_recognition_install">For recognition it is necessary to install Google Voice Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="listening_mode_activated">Listening mode activated</string>
+    <string name="in_order_to_activate_voice_recognition">In order to activate speech recognition you must install Google Voice Search</string>
+    <string name="input_unknown_answer">Sorry, I did not get that.</string>
+    <string name="install">Install</string>
+    <string name="install_voice_search_">Install Voice Search from Google Play ?</string>
+    <string name="no_app_found">No app found</string>
+    <string name="please_tell_me_app_name_to_open">Please tell me app name to open</string>
+    <string name="please_tell_me_url_to_open">Please tell me url to open</string>
+    <string name="speak_now">Speak now</string>
+    <string name="sorry_i_can_not_find">Sorry, I can not find an app to do this.</string>
+    <string name="tap_for_voice">Tap on the actionMessage for Voice</string>
+    <string name="which_app_to_launch">Which app do you want to launch ?</string>
+    <string name="which_video_to_launch">Which video do you want to play ?</string>
+
+    <string name="kws_caption">To start demonstration say \"oh mighty computer\".</string>
+    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
+    <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
+    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">To try phonetic recognition say anything.</string>
+    <string name="firstCategoryTitle">Settings</string>
+    <string name="childLockTitle">Enable Child Lock</string>
+    <string name="childLockSummary">Requires Kids Place app. Locks home button and provides other locking features based on Kids Place settings.</string>
+    <string name="eula_title">License</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Refuse</string>
+    <string name="menu_contactUs">Contact Us</string>
+    <string name="error_email_subject">Kids Place Remote Control - %1$s Error</string>
+    <string name="feedback_email_subject">Kids Place Remote Control - %1$s Feedback</string>
+    <string name="contact_us_msg">Feedback / Partnership opportunities</string>
+    <string name="report_error_msg">Encountered an error?</string>
+    <string name="reportError">Report Error</string>
+    <string name="emailUs">Email Us</string>
+    <string name="noEmailClient">There are no email clients installed.</string>
+    <string name="email_chooserTitle">Send email from...</string>
+    <string name="main_keyphrase">Say..</string>
+    <string name="user_executor_name">You</string>
+    <string name="kp_ai_suggestion">Suggestions</string>
+    <string name="action_browser_title">Open Website</string>
+    <string name="action_browser_desc">Say Open google.com</string>
+    <string name="action_apps_open_title">Apps Open</string>
+    <string name="action_apps_open_desc">Say Open Facebook App</string>
+    <string name="action_tell_story_title">Tell a Story</string>
+    <string name="action_tell_story_desc">Tell a Story</string>
+
+    <string name="action_play_video_error">Sorry, I can\'t find that video.</string>
+    <string name="action_play_video_error_security">Video player currently unavailable</string>
+    <string name="video_player_error_update">Please update Kids Video player to continue</string>
+    <string name="kvp_title">Kids Video Player</string>
+    <string name="action_video_player_kvp_install">Install Kids Video Player to get started</string>
+    <string name="permissions_required_title">Permissions required</string>
+    <string name="permissions_required_desc">In order to run the app you need to allow Audio and Phone permissions</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="settings">Settings</string>
+
+</resources>
